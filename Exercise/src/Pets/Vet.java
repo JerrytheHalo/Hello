@@ -6,9 +6,9 @@ public class Vet {
 	{
 		Dog Lol = new Dog("Temmie","pomerainian",5);
 		System.out.println(Lol);
+		Cat imaqtpie = new Cat("Pussy"," Small CAT!", 2);
+		System.out.println(imaqtpie);
 	}
-	public void run() {
 		
-	}
-
+	
 }

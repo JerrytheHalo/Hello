@@ -11,6 +11,7 @@ public class Cat {
 			
 	}
 	public String toString() {
+		System.out.println("weo");
 			return String.format("%s:%s:%d", name,breed,age);
 	}
 	
